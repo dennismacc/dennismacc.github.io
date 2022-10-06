@@ -1,15 +1,24 @@
-import React from 'react';
-import coverImage from '../../assets/cover/cover-image.jpg';
+import { header } from '../../portfolio'
+import Navbar from '../Nav'
+import './style.css'
 
-function Header(props) {
+const Header = () => {
+  const { homepage, title } = header
 
   return (
-    <header className="flex-row space-between px-1">
-      <h1>Lernantino</h1>
-      <img src={coverImage} alt="wooden background"></img>
-      {props.children}
+    <header className='header center'>
+      <h3>
+        {homepage ? (
+          <a href={homepage} className='link'>
+            {title}
+          </a>
+        ) : (
+          title
+        )}
+      </h3>
+      <Navbar />
     </header>
-  );
+  )
 }
 
-export default Header;
+export default Header
