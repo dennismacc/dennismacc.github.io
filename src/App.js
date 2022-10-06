@@ -7,6 +7,7 @@ import Skills from './components/Skills'
 // import ScrollToTop from './components/ScrollToTop'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+// import Certificates from './components/Certificates'
 import './App.css'
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
         <About />
         <Projects />
         <Skills />
+        {/* <Certificates /> */}
         <Contact />
       </main>
 
