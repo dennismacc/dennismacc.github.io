@@ -7,7 +7,7 @@ const header = {
     name: 'Dennis',
     role: 'Full-Stack Web Developer',
     description:
-      'My goals as a web developer are to focus on helping clients improve the accessibility of their web pages and applications. I have always enjoyed working with individuals with disabilites, and before beginning my journey in web development I worked as a special education teacher. I look forward to working with you to help create a more accessible and easier experience for a diverse user base!',
+      'My goal is to provide a user-focused, quality-driven, and more accessible web and mobile experience for all users. This is accomplished by communicating with clients and team members to build responsive and intuitive applications, from ideation to deployment. I strive to create a positive user experience for all users by providing accessibility to everyone through universal, inclusive, and equitable design.',
     resume: 'https://drive.google.com/file/d/1MvQoBrgKSpfBcb1Ht8_nkeuJ_DLsop6m/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/dennismacc/',
