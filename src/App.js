@@ -4,7 +4,6 @@ import Header from './components/Header'
 import About from './components/About'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
-// import ScrollToTop from './components/ScrollToTop'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 // import Certificates from './components/Certificates'
@@ -24,8 +23,6 @@ const App = () => {
         {/* <Certificates /> */}
         <Contact />
       </main>
-
-      {/* <ScrollToTop /> */}
       <Footer />
     </div>
   )
