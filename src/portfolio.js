@@ -8,7 +8,7 @@ const header = {
     role: 'Full-Stack Web Developer',
     description:
       'My goal is to provide a user-focused, quality-driven, and more accessible web and mobile experience for all users. This is accomplished by communicating with clients and team members to build responsive and intuitive applications, from ideation to deployment. I strive to create a positive user experience for all users by providing accessibility to everyone through universal, inclusive, and equitable design.',
-    resume: 'https://drive.google.com/file/d/1MvQoBrgKSpfBcb1Ht8_nkeuJ_DLsop6m/view?usp=sharing',
+    resume: 'https://docs.google.com/document/d/e/2PACX-1vT43ynGJra469rLiWm4rLSkKk0qvNCYa3cIP17dfCyOvelZQaOMEltgdIVAB_M6oGuBUkG6INZoQh54/pub',
     social: {
       linkedin: 'https://www.linkedin.com/in/dennismacc/',
       github: 'https://github.com/dennismacc',
