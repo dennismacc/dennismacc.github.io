@@ -17,12 +17,19 @@ const header = {
   
   const projects = [
     {
+      name: 'Sunnie Hunnies',
+      description:
+        'Shopify e-commerce store that sells children and womens swimwear and other beach accessories. The store is built with a custom theme that is fully responsive and ADA compliant.',
+      stack: ['Shopify', 'Liquid', 'HTML', 'CSS', 'JavaScript'],
+      livePreview: 'https://sunniehunnies.co',
+    },
+    {
       name: 'Groove',
       description:
         'Groove is a simple productivity app specifically designed to keep you focusing on the tasks that you are doing and nothing else.',
       stack: ['JavaScript (React & Node)', 'GraphQL', 'Apollo', 'JWT', 'Jotai', 'MongoDB', 'Mongoose', 'TailwindCSS'],
       sourceCode: 'https://github.com/dennismacc/Groove',
-      livePreview: 'https://groovey.herokuapp.com',
+      // livePreview: 'https://groovey.herokuapp.com',
     },
     {
       name: 'DÜDL',
@@ -30,7 +37,7 @@ const header = {
         'DÜDL is a multiplayer drawing and guessing game that can be played with friends anytime, anywhere!',
       stack: ['JavaScript', 'Express.js', 'Socket.io', 'Handlebars.js'],
       sourceCode: 'https://github.com/dennismacc/DUDL-Game',
-      livePreview: 'https://dudl.herokuapp.com',
+      // livePreview: 'https://dudl.herokuapp.com',
     },
     {
       name: 'Tech Blog',
@@ -39,14 +46,6 @@ const header = {
       stack: ['MVC', 'Handlebars.js', 'Sequelize', 'Express-Session'],
       sourceCode: 'https://github.com/dennismacc/Tech-Blog',
       livePreview: 'https://tech-blog-dm.herokuapp.com/',
-    },
-    {
-      name: `What's Streamin?`,
-      description:
-        'A simple web app that randomly generates a movie or TV show to watch based on user input.',
-      stack: ['HTML', 'CSS', 'JavaScript'],
-      sourceCode: 'https://github.com/dennismacc/Stream_Availability',
-      livePreview: 'https://swagnarok630.github.io/Stream_Availability/',
     },
     {
       name: 'E-Commerce Back End',
@@ -89,6 +88,8 @@ const header = {
     'Agile',
     'UI/UX',
     'Figma',
+    'Shopify',
+    'Adobe Creative Suite',
   ]
 
   const certificates = [
