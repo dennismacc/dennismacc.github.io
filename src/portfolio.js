@@ -95,6 +95,7 @@ const header = {
     'UI/UX',
     'Figma',
     'Shopify',
+    'WordPress',
     'Adobe Creative Suite',
   ]
 
