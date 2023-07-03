@@ -17,6 +17,12 @@ const header = {
   
   const projects = [
     {
+      name: 'Holistic Kids Foundation',
+      description: 'WordPress website for a non-profit organization that helps raise awareness through alternative and natural activities that encourage personal growth, physical and emotional therapy, social integration, healthy lifestyle, volunteering and the protection of childrens rights.',
+      stack: ['Wordpress', 'Figma', 'ADA Compliance', 'CSS'],
+      livePreview: 'https://www.holistickidsfoundation.org/',
+    },
+    {
       name: 'Sunnie Hunnies',
       description:
         'Shopify e-commerce store that sells children and womens swimwear and other beach accessories. The store is built with a custom theme that is fully responsive and ADA compliant.',
@@ -39,14 +45,14 @@ const header = {
       sourceCode: 'https://github.com/dennismacc/DUDL-Game',
       // livePreview: 'https://dudl.herokuapp.com',
     },
-    {
-      name: 'Tech Blog',
-      description:
-        'CMS-style blog sites that publish articles, blog posts, and other content. The app follows the MVC paradigm in its architectural structure.',
-      stack: ['MVC', 'Handlebars.js', 'Sequelize', 'Express-Session'],
-      sourceCode: 'https://github.com/dennismacc/Tech-Blog',
-      livePreview: 'https://tech-blog-dm.herokuapp.com/',
-    },
+    // {
+    //   name: 'Tech Blog',
+    //   description:
+    //     'CMS-style blog sites that publish articles, blog posts, and other content. The app follows the MVC paradigm in its architectural structure.',
+    //   stack: ['MVC', 'Handlebars.js', 'Sequelize', 'Express-Session'],
+    //   sourceCode: 'https://github.com/dennismacc/Tech-Blog',
+    //   livePreview: 'https://tech-blog-dm.herokuapp.com/',
+    // },
     {
       name: 'E-Commerce Back End',
       description:
